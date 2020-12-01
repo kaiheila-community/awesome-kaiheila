@@ -51,9 +51,10 @@ C# .NET 5|[kaiheila-cqhttp](https://github.com/kaiheila-community/kaiheila-cqhtt
 
 - [「开黑啦」cracker 联盟](https://kaihei.co/O9A5AY)
 - [【开黑啦】 开发者交流平台](https://kaihei.co/XGtqwD)
+- [机器人社区 - Bot Community](https://kaihei.co/XoL2WY)
 
 ## 贡献
 
 如果你发现或创作了一个与「开黑啦」相关的项目，请自由地提交 Issue 或 PR。提交时请注意使用最基础的 Markdown 格式，不要对列表等元素进行不必要的格式化。
 
-如果你想要在这个组织内创建新的项目，请加入 [这个](https://kaihei.co/ST8Tmw) 服务器告诉我。
+如果你想要在这个组织内创建新的项目，请加入 [这个](https://kaihei.co/XoL2WY) 服务器告诉我。
