@@ -39,7 +39,7 @@ C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotne
 
 语言/平台|项目|介绍
 -|-|-
-C# .NET 5|[kaiheila-cqhttp](https://github.com/kaiheila-community/kaiheila-cqhttp)|CQHTTP 的开黑啦（kaiheila）平台实现。
+C# .NET 5|[kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)|OneBot（原CQHTTP）的开黑啦（kaiheila）平台实现。
 
 ## 社区资源
 
