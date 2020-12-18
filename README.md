@@ -18,7 +18,13 @@
 
 ### 文档
 
-目前，官方文档尚未开放。
+**开发者酒馆**: <http://developer.kaiheila.cn/>
+
+在开发者酒馆，你可以对自己的机器人进行管理，也可以查阅机器人的开发文档。
+
+**开发文档源代码**: <https://github.com/kaiheila/api-docs>
+
+开黑啦开发者中心文档的源代码。
 
 ### 官方服务器
 
@@ -29,7 +35,6 @@
 语言/平台|项目|介绍
 -|-|-
 Java|[kaiheila-sdk-java](https://github.com/FightingGuys/kaiheila-sdk-java)|Kaiheila OpenAPI SDK for Java
-NodeJS|[kaiheila-sdk-nodejs](https://github.com/FightingGuys/kaiheila-sdk-nodejs)|Kaiheila OpenAPI SDK for Nodejs
 PHP|[Kaiheila PHP EasyDev](https://github.com/hugoshao/Kaiheila_PHP_EasyDev)|面向开黑啦编程，由开黑啦开发者交流中心提供的PHP-SDK，可简称为PED
 C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotnet)|开黑啦的 .NET 5 SDK。
 
