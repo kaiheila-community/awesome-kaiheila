@@ -32,25 +32,32 @@
 
 ## SDK
 
-语言/平台|项目|介绍
--|-|-
-Java|[kaiheila-sdk-java](https://github.com/FightingGuys/kaiheila-sdk-java)|Kaiheila OpenAPI SDK for Java
-PHP|[Kaiheila PHP EasyDev](https://github.com/hugoshao/Kaiheila_PHP_EasyDev)|面向开黑啦编程，由开黑啦开发者交流中心提供的PHP-SDK，可简称为PED
-C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotnet)|开黑啦的 .NET 5 SDK。
+语言/平台|项目|包|介绍|文档
+-|-|-|-|-
+PHP|[php-bot](https://github.com/kaiheila/php-bot)||开黑啦机器人的php版本|
+Java|[kaiheila-sdk-java](https://github.com/FightingGuys/kaiheila-sdk-java)||Kaiheila OpenAPI SDK for Java|
+PHP|[Kaiheila PHP EasyDev](https://github.com/hugoshao/Kaiheila_PHP_EasyDev)||面向开黑啦编程，由开黑啦开发者交流中心提供的PHP-SDK，可简称为PED|
+Python|[khl.py](https://github.com/TWT233/khl.py)|[![PyPI](https://img.shields.io/pypi/v/khl.py)](https://pypi.org/project/khl.py/)|SDK for kaiheila.cn in python|
+Node.js|[BotRoot](https://github.com/shugen002/BotRoot)|[![npm](https://img.shields.io/npm/v/kaiheila-bot-root?style=flat-square)](https://www.npmjs.com/package/kaiheila-bot-root)|开黑啦机器人JavaScript SDK|
+C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotnet)|[![Nuget](https://img.shields.io/nuget/v/Kaiheila?style=flat-square)](https://www.nuget.org/packages/Kaiheila/)|开黑啦的 .NET 5 SDK。|[Kaiheila.NET](https://khl-net.vbox.moe)
+易语言|[kaiheila-sdk-EL](https://github.com/dust0517/kaiheila-sdk-EL)||从0开始实现的易语言开黑啦机器人SDK|
 
 ## 框架
 
 > 经过配置后即可运行的可执行程序统一归于「框架」分类内。
 
-语言/平台|项目|介绍
--|-|-
-C# .NET 5|[kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)|OneBot（原CQHTTP）的开黑啦（kaiheila）平台实现。
+语言/平台|项目|包|介绍|文档
+-|-|-|-|-
+Node.js|[kbotify](https://github.com/fi6/kBotify)|[![npm](https://img.shields.io/npm/v/kbotify?style=flat-square)](https://www.npmjs.com/package/kbotify)|基于botRoot的开黑啦Bot开发框架|
+C# .NET 5|[kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)|[![Nuget](https://img.shields.io/nuget/v/Kaiheila.OneBot?style=flat-square)](https://www.nuget.org/packages/Kaiheila.OneBot/)|OneBot（原CQHTTP）的开黑啦（kaiheila）平台实现。|
 
 ## 社区资源
 
 ### 教程
 
 如果你编写了一份与「开黑啦」相关的开发教程，请自由地提交 Issue 或 PR。
+
+- [Kaiheila.NET 教程](https://khl-net.vbox.moe/articles/tutorials/index.html)
 
 ### 社区服务器
 
@@ -60,6 +67,9 @@ C# .NET 5|[kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebo
 
 ## 贡献
 
-如果你发现或创作了一个与「开黑啦」相关的项目，请自由地提交 Issue 或 PR。提交时请注意使用最基础的 Markdown 格式，不要对列表等元素进行不必要的格式化。
+如果你发现或创作了一个与「开黑啦」相关的项目，请自由地提交 Issue 或 PR。
+
+- 提交时请注意使用最基础的 Markdown 格式，不要对列表等元素进行不必要的格式化。
+- 包图标请统一使用 [Shields.io - Version](https://shields.io/category/version)，请注意加上 `?style=flat-square`。
 
 如果你想要在这个组织内创建新的项目，请加入 [这个](https://kaihei.co/XoL2WY) 服务器告诉我。
