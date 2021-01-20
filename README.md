@@ -9,6 +9,7 @@
   - [官方服务器](#官方服务器)
 - [SDK](#SDK)
 - [框架](#框架)
+- [应用案例](#应用案例)
 - [社区资源](#社区资源)
   - [教程](#教程)
   - [社区服务器](#社区服务器)
@@ -50,6 +51,14 @@ C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotne
 -|-|-|-|-
 Node.js|[kbotify](https://github.com/fi6/kBotify)|[![npm](https://img.shields.io/npm/v/kbotify?style=flat-square)](https://www.npmjs.com/package/kbotify)|基于botRoot的开黑啦Bot开发框架|
 C# .NET 5|[kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)|[![Nuget](https://img.shields.io/nuget/v/Kaiheila.OneBot?style=flat-square)](https://www.nuget.org/packages/Kaiheila.OneBot/)|OneBot（原CQHTTP）的开黑啦（kaiheila）平台实现。|
+
+## 应用案例
+
+机器人可以实现许多实用或娱乐性的功能。如果你开发了一个「开黑啦」机器人，请自由地提交 Issue 或 PR。
+
+语言/平台|项目|介绍|邀请
+-|-|-|-
+C# .NET 5|[kaiheila-inspector](https://github.com/kaiheila-community/kaiheila-inspector)|检查/Inspector  开发人员工具|
 
 ## 社区资源
 
