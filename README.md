@@ -61,6 +61,7 @@ Node.js|[koishi](https://github.com/koishijs/koishi)|[![npm](https://img.shields
 语言/平台|项目|介绍|邀请
 -|-|-|-
 C# .NET 5|[kaiheila-inspector](https://github.com/kaiheila-community/kaiheila-inspector)|检查/Inspector  开发人员工具|
+Node.js|[SKDiceBot](https://github.com/ShenKSPZ/SKDiceBot)|深空的跑团骰子娘开源代码|
 
 ## 社区资源
 
