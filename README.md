@@ -41,7 +41,6 @@ PHP|[Kaiheila PHP EasyDev](https://github.com/hugoshao/Kaiheila_PHP_EasyDev)||�
 Python|[khl.py](https://github.com/TWT233/khl.py)|[![PyPI](https://img.shields.io/pypi/v/khl.py?style=flat-square)](https://pypi.org/project/khl.py/)|SDK for kaiheila.cn in python|[文档](https://github.com/TWT233/khl.py/tree/main/example)
 Node.js|[BotRoot](https://github.com/shugen002/BotRoot)|[![npm](https://img.shields.io/npm/v/kaiheila-bot-root?style=flat-square)](https://www.npmjs.com/package/kaiheila-bot-root)|开黑啦机器人JavaScript SDK|
 Node.js|[KaiheilaWS](https://github.com/853Lab/KaiheilaWS)|[![npm](https://img.shields.io/npm/v/kaiheila-ws?style=flat-square)](https://www.npmjs.com/package/kaiheila-ws)|开黑啦机器人v2和v3 API的收发SDK，基于ECMAScript|
-Node.js|[kaiheila.ts](https://github.com/SakuraBot-dev/kaiheila.ts)|[![npm](https://img.shields.io/npm/v/khts?style=flat-square)](https://www.npmjs.com/package/kaiheila-ws)|插件式/命令式的开黑啦机器人框架，目前版本支持了大部分常用的API|
 C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotnet)|[![Nuget](https://img.shields.io/nuget/v/Kaiheila?style=flat-square)](https://www.nuget.org/packages/Kaiheila/)|开黑啦的 .NET 5 SDK。|[Kaiheila.NET](https://khl-net.vbox.moe)
 易语言|[kaiheila-sdk-EL](https://github.com/dust0517/kaiheila-sdk-EL)||从0开始实现的易语言开黑啦机器人SDK|
 
@@ -54,6 +53,7 @@ C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotne
 Node.js|[kbotify](https://github.com/fi6/kBotify)|[![npm](https://img.shields.io/npm/v/kbotify?style=flat-square)](https://www.npmjs.com/package/kbotify)|基于botRoot的开黑啦Bot开发框架|
 C# .NET 5|[kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)|[![Nuget](https://img.shields.io/nuget/v/Kaiheila.OneBot?style=flat-square)](https://www.nuget.org/packages/Kaiheila.OneBot/)|OneBot（原CQHTTP）的开黑啦（kaiheila）平台实现。|
 Node.js|[koishi](https://github.com/koishijs/koishi)|[![npm](https://img.shields.io/npm/v/koishi?style=flat-square)](https://www.npmjs.com/package/koishi)|跨平台机器人框架，支持 QQ / Telegram / 开黑啦，支持账号互通|https://koishi.js.org|
+Node.js|[kaiheila.ts](https://github.com/SakuraBot-dev/kaiheila.ts)|[![npm](https://img.shields.io/npm/v/khts?style=flat-square)](https://www.npmjs.com/package/khts)|插件式/命令式的开黑啦机器人框架，目前版本支持了大部分常用的API|https://github.com/SakuraBot-dev/kaiheila.ts|
 
 ## 应用案例
 
