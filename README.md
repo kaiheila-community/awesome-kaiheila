@@ -53,6 +53,7 @@ C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotne
 Node.js|[kbotify](https://github.com/fi6/kBotify)|[![npm](https://img.shields.io/npm/v/kbotify?style=flat-square)](https://www.npmjs.com/package/kbotify)|基于botRoot的开黑啦Bot开发框架|
 C# .NET 5|[kaiheila-onebot](https://github.com/kaiheila-community/kaiheila-onebot)|[![Nuget](https://img.shields.io/nuget/v/Kaiheila.OneBot?style=flat-square)](https://www.nuget.org/packages/Kaiheila.OneBot/)|OneBot（原CQHTTP）的开黑啦（kaiheila）平台实现。|
 Node.js|[koishi](https://github.com/koishijs/koishi)|[![npm](https://img.shields.io/npm/v/koishi?style=flat-square)](https://www.npmjs.com/package/koishi)|跨平台机器人框架，支持 QQ / Telegram / 开黑啦，支持账号互通|https://koishi.js.org|
+Node.js|[kaiheila.ts](https://github.com/SakuraBot-dev/kaiheila.ts)|[![npm](https://img.shields.io/npm/v/khts?style=flat-square)](https://www.npmjs.com/package/khts)|插件式/命令式的开黑啦机器人框架，目前版本支持了大部分常用的API|https://github.com/SakuraBot-dev/kaiheila.ts|
 
 ## 应用案例
 
