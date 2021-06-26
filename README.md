@@ -41,6 +41,7 @@ PHP|[Kaiheila PHP EasyDev](https://github.com/hugoshao/Kaiheila_PHP_EasyDev)||�
 Python|[khl.py](https://github.com/TWT233/khl.py)|[![PyPI](https://img.shields.io/pypi/v/khl.py?style=flat-square)](https://pypi.org/project/khl.py/)|SDK for kaiheila.cn in python|[文档](https://github.com/TWT233/khl.py/tree/main/example)
 Node.js|[BotRoot](https://github.com/shugen002/BotRoot)|[![npm](https://img.shields.io/npm/v/kaiheila-bot-root?style=flat-square)](https://www.npmjs.com/package/kaiheila-bot-root)|开黑啦机器人JavaScript SDK|
 Node.js|[KaiheilaWS](https://github.com/853Lab/KaiheilaWS)|[![npm](https://img.shields.io/npm/v/kaiheila-ws?style=flat-square)](https://www.npmjs.com/package/kaiheila-ws)|开黑啦机器人v2和v3 API的收发SDK，基于ECMAScript|
+Node.js|[kaiheila.ts](https://github.com/SakuraBot-dev/kaiheila.ts)|[![npm](https://img.shields.io/npm/v/khts?style=flat-square)](https://www.npmjs.com/package/kaiheila-ws)|插件式/命令式的开黑啦机器人框架，目前版本支持了大部分常用的API|
 C# .NET 5|[kaiheila-dotnet](https://github.com/kaiheila-community/kaiheila-dotnet)|[![Nuget](https://img.shields.io/nuget/v/Kaiheila?style=flat-square)](https://www.nuget.org/packages/Kaiheila/)|开黑啦的 .NET 5 SDK。|[Kaiheila.NET](https://khl-net.vbox.moe)
 易语言|[kaiheila-sdk-EL](https://github.com/dust0517/kaiheila-sdk-EL)||从0开始实现的易语言开黑啦机器人SDK|
 
